@@ -1,4 +1,7 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/Mark-Finlay">Cybersecurity Analyst</a> <a href="https://www.linkedin.com/in/mark-finlay-32113624a/"></a> </h1>
+## Cybersecurity Analyst
+
+<h2>Cybersecurity Certifications:</h2>
+CompTIA PenTest+ | Cloud+ | Security+ | Network+ | A+
 
 <h2>Summary:</h2>
 
@@ -18,15 +21,14 @@ Python-based.
 <h2>Practical Experience:</h2>
 
 - <b>TryHackMe</b>
-  - Top 7%
-  - Hack Streak 117 days (25/2/24)
+  - Top 7%  Hack Streak 117 days (25/2/24)
+  - Challenge room writeups to come
+ 
+<!-- - <b>Home Lab</b>  -->
 
 - <b>30 Days Lost in Space</b>
-  - C++, Arduino & electronics 
-  - [project](https://github.com/Mark-Finlay/project-URL)
-
-<h2>Cybersecurity Certifications:</h2>
-CompTIA PenTest+ | Cloud+ | Security+ | Network+ | A+
+  - C++, Arduino & electronics - I'll post a review once finished
+<!--  - [project](https://github.com/Mark-Finlay/project-URL)  -->
 
 <h2>Education:</h2>
 Griffith University - Bachelor of Aviation Management (Nov 2023)
