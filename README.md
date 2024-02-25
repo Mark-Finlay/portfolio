@@ -1,9 +1,9 @@
 ## Cybersecurity Analyst
 
-<h2>Cybersecurity Certifications:</h2>
+### Cybersecurity Certifications:
 CompTIA PenTest+ | Cloud+ | Security+ | Network+ | A+
 
-<h2>Summary:</h2>
+### Summary:
 
 As a helicopter Licensed Aircraft Maintenance Engineer (LAME), I am now transitioning into the cybersecurity
 realm. I am actively seeking challenging opportunities in cybersecurity where I can leverage my diverse skillset
@@ -18,7 +18,7 @@ Whilst completing my Bachelors degree in Aviation Management I took advantage of
 subjects and achieved high grades in Programming Principles and Data Analytics Methods, both of which were
 Python-based.
 
-<h2>Practical Experience:</h2>
+### Practical Experience:
 
 - <b>TryHackMe</b>
   - Top 7%  Hack Streak 117 days (25/2/24)
@@ -30,10 +30,10 @@ Python-based.
   - C++, Arduino & electronics - I'll post a review once finished
 <!--  - [project](https://github.com/Mark-Finlay/project-URL)  -->
 
-<h2>Education:</h2>
+### Education:
 Griffith University - Bachelor of Aviation Management (Nov 2023)
 
-<h2>Experience:</h2>
+### Experience:
 Helicopter Licenced Aircraft Maintenance Engineer | R22 / R44 / R66 | B1.2 & B1.4 LAME
 Dec 2013 - Present (10 years 3 months)
 
@@ -50,7 +50,7 @@ calibrated tool control, parts ordering, shipping, component returns.
 helicopter valuation, numerous worksheets.
 
 
-<h2> Connect with me:</h2>
+### Connect with me:
 
 [<img align="left" alt="Mark Finlay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
