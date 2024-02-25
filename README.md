@@ -55,7 +55,7 @@ helicopter valuation, numerous worksheets.
 [<img align="left" alt="Mark Finlay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/mark-finlay-32113624a
+[linkedin]: https://linkedin.com/in/mark--finlay
 
 
 
