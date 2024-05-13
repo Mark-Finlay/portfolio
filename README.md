@@ -21,7 +21,7 @@ Python-based.
 ### Practical Experience:
 
 - <b>TryHackMe</b>
-  - Top 5%  Hack Streak 117 days (25/2/24)
+  - Top 4%.  Just missed a 180 day streak. 
   - https://tryhackme.com/p/Mark.025
   - Challenge room writeups to come
  
